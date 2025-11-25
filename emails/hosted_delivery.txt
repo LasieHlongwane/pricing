@@ -1,0 +1,11 @@
+Hi {{name}},
+
+Thanks for your purchase!
+
+You can download your product here:
+{{ product.download_url }}
+
+Need help installing? Contact us anytime.
+
+Regards,
+LAC Admin Team

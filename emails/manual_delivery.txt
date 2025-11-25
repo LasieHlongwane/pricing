@@ -1,0 +1,15 @@
+Hi {{name}},
+
+Thank you for your purchase!
+
+Your product is now activated and ready for delivery.
+
+Since this product requires a manual installation, our team will send you the installer file (.exe) along with a short setup guide shortly.
+
+If you need help getting started, we are always here to assist you.
+
+Support WhatsApp: +27 76 611 4909  
+Email: lacbots@gmail.com
+
+Regards,  
+LAC Admin Team  
